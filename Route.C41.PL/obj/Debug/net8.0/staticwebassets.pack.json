@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\css\\AuthLayout.css",
+      "PackagePath": "staticwebassets\\css\\AuthLayout.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\0d7c199b-004a-4765-aae9-d5881e77ff0d.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\0d7c199b-004a-4765-aae9-d5881e77ff0d.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\29403578-6dab-44ff-8729-22af0e793481.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\29403578-6dab-44ff-8729-22af0e793481.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\7f3e5043-375c-45f4-96da-443c997a7eb7.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\7f3e5043-375c-45f4-96da-443c997a7eb7.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\81675a83-db57-4fb9-a403-092acf499d66.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\81675a83-db57-4fb9-a403-092acf499d66.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\81984f2f-06be-4e98-8a5f-2ade4354c4a1.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\81984f2f-06be-4e98-8a5f-2ade4354c4a1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\93e83bec-57b6-465b-9af0-a7669e0f94eb.jpeg",
+      "PackagePath": "staticwebassets\\files\\images\\93e83bec-57b6-465b-9af0-a7669e0f94eb.jpeg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\d6c3b887-b30f-40c8-8c91-9dcf012c317d.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\d6c3b887-b30f-40c8-8c91-9dcf012c317d.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\files\\images\\ddce2ca3-b1d3-435b-97d4-2795f11c8448.jpeg",
+      "PackagePath": "staticwebassets\\files\\images\\ddce2ca3-b1d3-435b-97d4-2795f11c8448.jpeg"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed Nasr\\ASP .NET MVC\\Route.C41\\Route.C41.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Route.C41.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Route.C41.PL.props",
+      "PackagePath": "build\\Route.C41.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Route.C41.PL.props",
+      "PackagePath": "buildMultiTargeting\\Route.C41.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Route.C41.PL.props",
+      "PackagePath": "buildTransitive\\Route.C41.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

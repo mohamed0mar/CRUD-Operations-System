@@ -1,0 +1,16 @@
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\bin\Debug\net5.0\Route.C41.DAL.deps.json
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\bin\Debug\net5.0\Route.C41.DAL.dll
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\bin\Debug\net5.0\Route.C41.DAL.pdb
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.AssemblyInfoInputs.cache
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.AssemblyInfo.cs
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.csproj.CoreCompileInputs.cache
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.dll
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\refint\Route.C41.DAL.dll
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.pdb
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\ref\Route.C41.DAL.dll
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\bin\Debug\net5.0\Route.C41.DAL.runtimeconfig.json
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\bin\Debug\net5.0\Route.C41.DAL.runtimeconfig.dev.json
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.csproj.AssemblyReference.cache
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.sourcelink.json
+D:\New\MVC\Session 03\Demos\Route.C41\Route.C41.DAL\obj\Debug\net5.0\Route.C41.DAL.genruntimeconfig.cache
